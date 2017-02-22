@@ -1,0 +1,6 @@
+Malapa Bushra	123456	100.0	
+Peter Benjamin	78910	300.5	
+Goday Priya	125672	10000.45	
+John Smith	444451	3000.0	
+Daniel Nguyen	1	2000.0	
+endAccounts
